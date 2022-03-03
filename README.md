@@ -1,4 +1,4 @@
 # RKF
-Some solvers for ODES using Runge -Kutta- Fehlberg Formulas
+Some solvers for ODE using Runge -Kutta- Fehlberg Formulas
 
 (early stages of development)
